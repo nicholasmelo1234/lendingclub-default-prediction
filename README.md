@@ -16,4 +16,4 @@ Predicting loan default from borrower and loan characteristics using L2-regulari
 
 **Limitations:** Non-random sample (first 200K rows), possible look-ahead features, single train/test split, state and purpose may proxy for demographics.
 
-**To run:** Download the CSV from Kaggle, place it in the same folder as the notebook, and run `lending_club_project.ipynb`.
+**To run:** Download the CSV from Kaggle, place it in the same folder as the notebook, and run `lending_club_project_revamped.ipynb`.
